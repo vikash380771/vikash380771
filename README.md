@@ -57,14 +57,14 @@
 |----------|--------------|-------------|
 | [**TechTutor**](https://github.com/vikash380771/TechTutor) | An AI-powered learning platform featuring OTP login, Razorpay payments & video content delivery. | React.js, Redux, Node.js, MongoDB |
 | [**ClinicHub**](https://github.com/vikash380771/ClinicHub) | Doctor appointment system with real-time socket chat and Cloudinary integration. | MERN Stack, Socket.IO |
-| [**Malicious URL Detector**](https://github.com/vikash380771/Malicious-URL-Detection) | Machine Learning project for cybersecurity threat analysis. | Python, Scikit-learn, Flask |
+| [**Restro**](https://github.com/Gautam12546/PROJECTST026) | Restro” is a QR-code driven digital menu platform that empowers restaurants to update menus in real time and offers customers a seamless mobile-first dining experience. | MERN Stack,Razorpay Tailwind CSS |
 
 ---
 
 ## 🏆 Competitive Programming
 
 - 💪 Solved **500+ DSA Problems** on LeetCode, Codeforces, and GFG  
-- 🌟 Achieved **Global Rank 7197** in LeetCode Weekly Contest 409  
+- 🌟 Achieved **3128 / 27973** in LeetCode Weekly Contest 473  
 - 🧠 Strong in **Dynamic Programming, Graphs, Trees, and Binary Search**
 
 ---
